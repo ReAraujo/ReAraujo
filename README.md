@@ -12,6 +12,9 @@ About me:
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ReAraujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReAraujo&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+##  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="ReAraujo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="ReAraujo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -21,7 +24,7 @@ About me:
   <img align="center" alt="ReAraujo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>  
   
-##
+
   
 
   
