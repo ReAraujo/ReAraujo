@@ -1,9 +1,10 @@
 ### Hello! Welcome to you! 👋
 
 About me:
-- 💻 I’m currently working with Back-end at Capgemini. 
-- 🌱 I’m currently learning Java, Angular and Node.js
-- 🌼 Pronouns: She/her.
+💻 I’m currently working with Back-end at Capgemini. 
+🌱 I’m currently learning Java, Angular and Node.js
+🌼 Pronouns: She/her.
+
 
 <div align="center">
   <a href="https://github.com/ReAraujo">
