@@ -1,7 +1,7 @@
 ### Hello! Welcome to you! 👋
 
 About me:
-- 💻 I’m currently working with Back-End at Capgemini. 
+- 💻 I’m currently working with Back-end at Capgemini. 
 - 🌱 I’m currently learning Java, Angular and Node.js
 - 🌼 Pronouns: She/her.
 - 💛 Love: animals, plants/flowers, technology, coffe, films and books
