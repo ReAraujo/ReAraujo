@@ -1,8 +1,8 @@
 ### Hello! Welcome to you! 👋
 
 About me:
-- 💻 I’m currently working with Front-end. 
-- 🌱 I’m currently learning Java and Angular 
+- 💻 I’m currently working with Front-end with HTML, CSS, JS, TS and Angular. 
+- 🌱 I’m currently learning HTML, CSS, JS, TS, Angular, Java and Java Web. 
 - 🌼 Pronouns: She/her.
 - 💛 Love: animals, plants/flowers, technology, coffe, films and books
 
